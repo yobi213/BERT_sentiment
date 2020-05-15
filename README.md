@@ -3,7 +3,6 @@
 
 Bert 기반 텍스트의 ‘긍정’과 ‘부정’을 구분하는 감성분석 딥러닝 모델
 
-학습이 완료되면 성능평가결과가 output 디텍토리에 performance.txt로 저장
 
 python setup.py install
 
